@@ -7,9 +7,9 @@ import { motion } from "framer-motion";
 function getGreeting(): { text: string; emoji: string } {
   const hour = new Date().getHours();
   if (hour >= 5 && hour < 12)  return { text: "Good Morning",   emoji: "🌤️" };
-  if (hour >= 12 && hour < 17) return { text: "Good Afternoon", emoji: "☀️" };
-  if (hour >= 17 && hour < 21) return { text: "Good Evening",   emoji: "🌆" };
-  return                               { text: "Good Night",     emoji: "🌙" };
+  if (hour >= 12 && hour < 16) return { text: "Good Afternoon", emoji: "☀️" };
+  if (hour >= 16 && hour < 21) return { text: "Good Evening",   emoji: "🌆" };
+  return                               { text: "Good Evening",     emoji: "🌆" };
 }
 
 export function GreetingBanner() {
