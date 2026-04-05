@@ -12,6 +12,12 @@ https://financee-dashboard.vercel.app/dashboard
 
 ## Screenshots
 
+<img width="1908" height="895" alt="image" src="https://github.com/user-attachments/assets/ed4445ab-a6ec-41d0-a6c5-9b3ad20d9d49" />
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/a4e7bc21-3123-453b-96f8-e2374ff59bf9" />
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/c1c5c942-a598-4697-9965-a894686e0eec" />
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/80d2073a-4a98-44d9-980d-52228da54fda" />
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/356151ca-3ee2-4ae9-9b9e-651edf8e7e15" />
+
 | Overview | Transactions | Insights |
 |---|---|---|
 | Summary cards, charts, bills & goals widgets | Full CRUD with filters, search, sort, pagination | Spending heatmap, category breakdown, observations |
