@@ -7,7 +7,7 @@ A full-featured personal finance dashboard built with **Next.js 16**, **TypeScri
 ## Live Demo
 
 > Run locally — see [Getting Started](#getting-started) below.
-
+https://financee-dashboard.vercel.app/dashboard
 ---
 
 ## Screenshots
